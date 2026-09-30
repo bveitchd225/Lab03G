@@ -1,5 +1,6 @@
 import java.awt.*;
 import gbs.game.*;
+import gbs.*;
 
 public class Flappy extends GBSGame {
 
